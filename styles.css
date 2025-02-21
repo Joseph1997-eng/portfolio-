@@ -1,0 +1,23 @@
+@import url(https://fonts.bunny.net/css?family=alata:400|ewert:400);
+
+
+*{
+ font-family: 'Alata', sans-serif;
+ -webkit-font-smoothing: antialiased;
+ scroll-behavior:smooth;
+ user-select:none;
+}
+
+.skill-badge {
+   background-color: #4a5568;
+   color: #ffffff;
+   padding: 0.25rem 0.5rem;
+   border-radius: 0.5rem;
+   font-size: 0.75rem;
+   display:grid;
+   place-item:center;
+   font-family: 'Bungee Inline', display;
+  }
+h1,h2{
+ font-family: 'ewert', display;
+}
