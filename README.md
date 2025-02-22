@@ -3,7 +3,7 @@
 Welcome to my personal portfolio! This website showcases my skills, projects, certifications, and professional background.
 
 ## 🚀 Live Preview
-Check out my portfolio here: [Joseph's Portfolio](https://joseph1997-eng.github.io/](https://joseph1997-eng.github.io/portfolio-/)
+Check out my portfolio here: [Joseph's Portfolio](https://joseph1997-eng.github.io/portfolio-/)
 
 ## 📌 About Me
 Hi, I'm **Joseph**, a passionate **Cybersecurity Enthusiast** and **Web Developer** currently pursuing an **MTech in Computer Science and Engineering (Cybersecurity, AI & Data Science)** at **Graphic Era Hill University, Dehradun, India**. I enjoy working on web development, AI, and cybersecurity-related projects.
