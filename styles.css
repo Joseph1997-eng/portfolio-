@@ -17,17 +17,20 @@ h1, h2 {
 
 /* Skill Badges */
 .skill-badge {
-    background-color: #4a5568;
-    color: #ffffff;
-    padding: 0.25rem 0.5rem;
-    border-radius: 0.5rem;
-    font-size: 0.75rem;
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    white-space: nowrap;
-    font-family: 'Bungee Inline', display;
+  background-color: #4a5568;
+  color: #ffffff;
+  padding: 0.25rem 0.5rem;
+  border-radius: 0.5rem;
+  font-size: 0.75rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  /* Important: allow wrapping for longer skill names */
+  white-space: normal;
+  word-break: break-word; /* or break-words */
+  font-family: 'Bungee Inline', display;
 }
+
 
 /* Badges Container */
 .badges-container {
